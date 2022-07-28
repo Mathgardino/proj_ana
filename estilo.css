@@ -1,36 +1,41 @@
 .fundo {
-    background-image:url("Imagens/fundo.png");
+    background-image: url("Imagens/fundo.png");
     font: 16px Arial, Helvetica, sans-serif;
 }
 
-#principal{
+#principal {
 
     width: 900px;
-    
+
 }
 
-#menu{
+#menu {
     background-color: #c5c5c2;
-    padding:18px ;
+    padding: 18px;
 }
 
-a{
+a {
     color: #4b566a;
     text-decoration: none;
     font-weight: bold;
     padding: 3px;
 }
 
-#conteudo  {
+#conteudo {
     background-color: #e8e8d9;
     padding: 10px;
 }
 
-.rodape{
+.rodape {
     text-align: center;
 }
 
 h1 {
     color: #828271;
     font-size: 1.2em;
+}
+
+.campanha {
+    border: 10px #4b566a solid;
+
 }
